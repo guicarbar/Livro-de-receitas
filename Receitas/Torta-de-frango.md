@@ -28,5 +28,26 @@ Essa é uma receita de uma deliciosa torta de frango que por sinal é uma das mi
 
 ## Modo de preparo
 
+### Recheio
+
+1. Cozinhe o peito de frango no caldo até ficar macio.
+
+1. Separe 1 xícara (chá) de caldo do cozimento e reserve.
+
+1. Refogue os demais ingredientes e acrescente as ervilhas por último.
+
+1. Desfie o frango, misture ao caldo e deixe cozinhar até secar.
+
+### Massa
+
+1. Bata o leite, o óleo e os ovos no liquidificador em velocidade baixa.
+
+1. Acrescente aos poucos a farinha, o sal e o fermento.
+
+1. Despeje metade da massa em uma forma untada e adicione o recheio sobre ela.
+
+1. Cubra com o restante de massa e o queijo ralado.
+
+1. Leve ao forno preaquecido (180° C) até dourar.
 
 
