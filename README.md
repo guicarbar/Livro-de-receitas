@@ -4,4 +4,4 @@ Esse é um livro de varias receitas feitas em Markdown, esse vai ser meu primeir
 
 *Obs: estarei sempre que possivel manter esse livro de receitas atualizado*
 
-**Aproveite as diferentes receitas neste livro virtual**
+## Aproveite as diferentes receitas neste livro virtual
