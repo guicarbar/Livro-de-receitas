@@ -1,34 +1,34 @@
-# Receita de uma belissima torta de frango
+# Receita de uma belissima torta de frango :star::star:
 
-Essa é uma receita de uma deliciosa torta de frango que por sinal é uma das minhas comidas prefridas.
+Essa é uma receita de uma deliciosa torta de frango que por sinal é uma das minhas comidas prefridas. :fire:
 
-## Ingredientes
+## Ingredientes :grey_exclamation:
 
-### Recheio
+### Recheio :speech_balloon:
 
-* 500 g de peito de frango sem pele
-* 4 colheres (sopa) de óleo
-* 1 cebola picada
-* 1 xícara (chá) de ervilhas
-* pimenta-do-reino a gosto
+* 500 g de peito de frango sem pele :chicken:
+* 4 colheres (sopa) de óleo 
+* 1 cebola picada 
+* 1 xícara (chá) de ervilhas 
+* pimenta-do-reino a gosto 
 * 1/2 litro de caldo de galinha
 * 1 dente de alho amassado
-* 3 tomates sem pele e sem sementes
-* sal a gosto
+* 3 tomates sem pele e sem sementes :tomato:
+* sal a gosto 
 
-### Massa
+### Massa 🥧
 
-* 250 ml de leite
-* 2 ovos
+* 250 ml de leite :milk:
+* 2 ovos :egg:
 * sal a gosto
-* queijo ralado a gosto
-* 3/4 de xícara (chá) de óleo
+* queijo ralado a gosto :cheese:
+* 3/4 de xícara (chá) de óleo 
 * 1 e 1/2 xícara (chá) de farinha de trigo
 * 1 colher (sopa) de fermento em pó
 
-## Modo de preparo
+## Modo de preparo :pencil:
 
-### Recheio
+### Recheio 
 
 1. Cozinhe o peito de frango no caldo até ficar macio.
 
@@ -52,3 +52,5 @@ Essa é uma receita de uma deliciosa torta de frango que por sinal é uma das mi
 
 
 **Essa foi a primeira receita do meu livro, espero que gostem**
+
+:clap::sunglasses::clap:
