@@ -1,6 +1,7 @@
 # Receita de uma belissima torta de frango :star::star:
 
 Essa é uma receita de uma deliciosa torta de frango que por sinal é uma das minhas comidas prefridas. :fire:
+Serve até 8 porções.
 
 ## Ingredientes :grey_exclamation:
 
